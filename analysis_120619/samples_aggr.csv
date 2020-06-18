@@ -1,0 +1,6 @@
+library_id,molecule_h5
+S1,/data/projects/TM-1123/analysis_120619/20.cellranger_count/S1/outs/molecule_info.h5
+S2,/data/projects/TM-1123/analysis_120619/20.cellranger_count/S2/outs/molecule_info.h5
+S3,/data/projects/TM-1123/analysis_120619/20.cellranger_count/S3/outs/molecule_info.h5
+S4,/data/projects/TM-1123/analysis_120619/20.cellranger_count/S4/outs/molecule_info.h5
+
